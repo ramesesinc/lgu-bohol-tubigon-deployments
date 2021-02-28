@@ -1,18 +1,18 @@
 [Ubuntu Server]
-IP   : 
-User : 
-Pass : 
+IP   : 192.168.0.127
+User : ron
+Pass : 4321
 
 
 [DB Server]
 IP   : 
-User :
-Pass : 
+User : root
+Pass : P@ssw0rd#
 
 
 [Webmin]
-User : 
-Pass : 
+User : ron
+Pass : 4321
 
 
 [Portainer]
@@ -21,8 +21,8 @@ Pass :  p@ssw0rd
 
 
 [Samba Shared Folder]
-User : 
-Pass : 
+User : ron
+Pass : p@ssw0rd
 
 
 [Docker Images]
